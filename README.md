@@ -8,9 +8,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end amd Back-end developer
+- A passionate Self-taught Front-end and Back-end developer
 - A problem solver
-- Tech & Android Lover
+- Tech, Hardware & Android Lover
 - Currently learning Kotlin & GOLang by myself
 
 <br>
